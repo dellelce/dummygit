@@ -4,7 +4,7 @@
 #include <errno.h>
 #include <string.h>
 
-char *fn = "/c/android/tmp/args.txt";
+char *fn = "/tmp/dummygit.txt";
 char *fn_fb = "args.txt";
 
 //
