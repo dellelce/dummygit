@@ -82,9 +82,7 @@ main (int argc, char **argv)
 
  fclose(fh); // close file use to log input parameters
 
- execv(GIT, argv);
-
- return 0;
+ return execv(GIT, argv);
 }
 
 // EOF
